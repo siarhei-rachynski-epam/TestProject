@@ -9,9 +9,10 @@ public class Main {
         System.out.println("one more extra line added from home282");
 
         SimpleFeature1 sf1 = new SimpleFeature1();
-
         sf1.SimpleFunction();
-    }
 
+        SimpleFeature2 sf2 = new SimpleFeature2();
+        sf2.SimpleFunction();
+    }
 
 }
