@@ -8,5 +8,12 @@ public class Main {
         System.out.println("second more line added");
         System.out.println("extra line added directly on github");
         System.out.println("one more extra line added from home282");
+
+        SimpleFeature1 sf1 = new SimpleFeature1();
+        sf1.SimpleFunction();
+
+        SimpleFeature2 sf2 = new SimpleFeature2();
+        sf2.SimpleFunction();
     }
+
 }
