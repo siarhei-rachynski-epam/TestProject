@@ -14,6 +14,8 @@ public class Main {
 
         SimpleFeature2 sf2 = new SimpleFeature2();
         sf2.SimpleFunction();
+
+        System.out.println("some intermediate point");
     }
 
 }
