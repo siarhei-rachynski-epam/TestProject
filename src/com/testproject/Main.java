@@ -16,6 +16,9 @@ public class Main {
         sf2.SimpleFunction();
 
         System.out.println("some intermediate point");
+
+        System.out.println("3rd intermediate point");
+
     }
 
 }
