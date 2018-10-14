@@ -18,6 +18,12 @@ public class Main {
         System.out.println("some intermediate point");
 
         System.out.println("next point in master flow");
+
+        System.out.println("3rd intermediate point");
+
+        Feature100 ft100 = new Feature100();
+        ft100.SomeOp();
+
     }
 
 }
