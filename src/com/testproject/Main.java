@@ -16,6 +16,8 @@ public class Main {
         sf2.SimpleFunction();
 
         System.out.println("some intermediate point");
+
+        System.out.println("next point in master flow");
     }
 
 }
