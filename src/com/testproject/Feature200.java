@@ -6,5 +6,6 @@ public class Feature200 extends SimpleFeature1  {
         SimpleFunction();
 
         System.out.println("some operation in feature 200");
+        System.out.println("some new operation in feature 200");
     }
 }
