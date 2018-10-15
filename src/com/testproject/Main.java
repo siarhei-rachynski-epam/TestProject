@@ -46,6 +46,14 @@ public class Main {
         System.out.println("feature200v2 - test stashing - staged (committed into local)");
 
         System.out.println("to check undo commit");
+
+        // test rebasing
+        // let's make a couple commits in test-rebase branch and then a couple in main branch,
+        // then rebase feature branch onto main via Checkout with rebase, then make one more commit to feature branch,
+        // then perform Interactive Rebase to squash commits in feature branch into one commit and merge feature branch into master, then Push.
+        // Finally delete feature branch.
+
+        // second commit to feature branch
     }
 
     public void SomeOp(){
