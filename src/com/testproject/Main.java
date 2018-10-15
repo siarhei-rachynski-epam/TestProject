@@ -32,6 +32,7 @@ public class Main {
         System.out.println("test rebasing");
         
         System.out.println("test fetching");
+        System.out.println("test fetching2");
     }
 
 }
