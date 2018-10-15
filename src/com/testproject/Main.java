@@ -48,4 +48,8 @@ public class Main {
         System.out.println("to check undo commit");
     }
 
+    public void SomeOp(){
+        //tired to resolve conflicts, so first commit in master goes in separate function
+    }
+
 }
