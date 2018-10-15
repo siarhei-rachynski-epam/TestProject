@@ -45,9 +45,6 @@ public class Main {
 
         System.out.println("feature200v2 - test stashing - staged (committed into local)");
 
-
-        System.out.println("adde new op in main");
-
         System.out.println("to check undo commit");
     }
 
