@@ -49,7 +49,9 @@ public class Main {
     }
 
     public void SomeOp(){
-        //tired to resolve conflicts, so first commit in master goes in separate function
+        // tired to resolve conflicts, so first commit in master goes in separate function
+
+        // second commit to master
     }
 
 }
