@@ -74,6 +74,10 @@ public class Main {
         // commit of this changes will go first
 
         // some code
+
+        // more code
+
+        // a bit more code
     }
 
 }
