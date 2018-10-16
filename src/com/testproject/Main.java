@@ -60,6 +60,10 @@ public class Main {
         // tired to resolve conflicts, so first commit in master goes in separate function
 
         // second commit to master
+
+        // some changes to commit
+
+        // some additional changes to add to previous commit
     }
 
 }
