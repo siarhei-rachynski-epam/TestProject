@@ -64,6 +64,8 @@ public class Main {
         // some changes to commit
 
         // some additional changes to add to previous commit
+
+        // some code in master branch
     }
 
 }
