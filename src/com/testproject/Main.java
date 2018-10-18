@@ -81,5 +81,9 @@ public class Main {
 
         // let's add a bit more code
     }
+    
+    public void SomeNewOp(){
+        // new code
+    }
 
 }
