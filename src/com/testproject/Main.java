@@ -85,12 +85,12 @@ public class Main {
 
         // added changes by external-contrib in IDE
     }
-    
+
     public void SomeNewOp(){
         // new code
         //changes
     }
 
-    
+
     // added from github by external-contrib
 }
