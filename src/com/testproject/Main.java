@@ -54,6 +54,8 @@ public class Main {
         // Finally delete feature branch.
 
         // second commit to feature branch
+
+        // some code changes to Main
     }
 
     public void SomeOp(){
