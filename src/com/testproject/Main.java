@@ -82,6 +82,8 @@ public class Main {
         // a bit more code
 
         // let's add a bit more code
+
+        // added changes by external-contrib in IDE
     }
     
     public void SomeNewOp(){
