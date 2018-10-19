@@ -95,4 +95,9 @@ public class Main {
 
 
     // added from github by external-contrib
+
+    public void SomeOpForPR2(){
+        // some code goes here
+
+    }
 }
