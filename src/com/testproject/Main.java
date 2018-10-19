@@ -84,6 +84,8 @@ public class Main {
         // let's add a bit more code
 
         // added changes by external-contrib in IDE
+
+        // new changes by external-contrib in IDE after pull request has been created
     }
 
     public void SomeNewOp(){
