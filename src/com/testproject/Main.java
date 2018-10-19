@@ -83,7 +83,7 @@ public class Main {
 
         // let's add a bit more code
 
-        // added changes by external-contrib in IDE
+        // added changes by external-contrib in IDE, fixed some  style issue after Pull Request review
 
         // new changes by external-contrib in IDE after pull request has been created
     }
