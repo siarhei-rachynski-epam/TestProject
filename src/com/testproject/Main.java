@@ -105,4 +105,8 @@ public class Main {
 
         // yet more changes to merge to upstream, fixed review comments
     }
+
+    public void AddingNewFunctionalityIntoUpstream(){
+        // some code goes here
+    }
 }
