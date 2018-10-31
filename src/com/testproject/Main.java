@@ -45,6 +45,8 @@ public class Main {
 
         System.out.println("feature200v2 - test stashing - staged (committed into local)");
 
+        System.out.println("feature200v2 - test stashing - local changes and changes to index");
+
         System.out.println("to check undo commit");
 
         // test rebasing
