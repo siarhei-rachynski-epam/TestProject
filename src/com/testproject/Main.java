@@ -111,4 +111,8 @@ public class Main {
     public void AddingNewFunctionalityIntoUpstream(){
         // some code goes here
     }
+
+    public void NewMethodForPullRequest() {
+        // some gode goes here
+    }
 }
