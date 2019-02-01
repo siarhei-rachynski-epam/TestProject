@@ -1,8 +1,24 @@
-package com.testproject;
+package com.home282.testproject;
 
-public class Main {
+public class App {
+
+    private final String message = "Hello World!";
+
+    public App() {}
 
     public static void main(String[] args) {
+        p(new App().getMessage());
+    }
+
+    private final String getMessage() {
+        return message;
+    }
+
+    private static void p(String s) {
+        System.out.println(s);
+    }
+
+    private static void someCode() {
         System.out.println("test project");
         System.out.println("one more line");
         System.out.println("second more line added");
@@ -57,7 +73,7 @@ public class Main {
 
         // second commit to feature branch
 
-        // some code changes to Main
+        // some code changes to App
     }
 
     public void SomeOp(){

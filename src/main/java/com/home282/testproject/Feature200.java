@@ -1,4 +1,4 @@
-package com.testproject;
+package com.home282.testproject;
 
 public class Feature200 extends SimpleFeature1  {
 
