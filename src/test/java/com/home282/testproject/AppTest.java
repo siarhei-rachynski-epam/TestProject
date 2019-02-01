@@ -33,6 +33,8 @@ public class AppTest
     public void testAppMainOutputShouldBeHelloWorld() {
         App.main(null);
         Assert.assertEquals("Output should be \"Hello World!\"","Hello World!" + System.getProperty("line.separator"), outContent.toString());
+        // uncomment to fail the test
+        // Assert.assertEquals("Output should be \"Hello World!\"","Hello World!", outContent.toString());
     }
 
     @Ignore("Default test is ignored")
