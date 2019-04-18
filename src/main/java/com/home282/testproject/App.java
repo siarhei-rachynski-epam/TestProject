@@ -136,5 +136,6 @@ public class App {
         // some code
         // some changes
         // code changes ....
+        // even more code changes - fixing code after code review
     }
 }
