@@ -131,4 +131,8 @@ public class App {
     public void SomeNewMethodAddedAfterForkByExternalContrib() {
         //some code goes here
     }
+
+    private void newPR() {
+        // some code
+    }
 }
